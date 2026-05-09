@@ -706,8 +706,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### Get in Touch
 
-**Author:** Dinesh Kumar  
+**Author:** Dinesh S  
 **GitHub:** [@itzdineshx](https://github.com/itzdineshx)
+**Linkedin:** [Dinesh S](https://www.linkedin.com/in/dinesh-xo/)
 
 ### Support
 - 💬 **Issues & Bugs**: Open GitHub Issues
